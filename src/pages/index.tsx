@@ -8,7 +8,7 @@ import DatePickerWrapper from "src/@core/styles/libs/react-datepicker";
 const Dashboard = () => {
   return (
     <iframe
-      src="https://hf.space/embed/alexstedev/test_gradio/+?__theme=light"
+      src="https://hf.space/embed/alexstedev/metis/+?__theme=light"
       width="100%"
       height="100%"
       frameBorder="0"
