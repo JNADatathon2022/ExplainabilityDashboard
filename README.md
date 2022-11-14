@@ -1,4 +1,15 @@
-# Dashboard
+<p align="center">
+  <img width="425" height="193" src="https://raw.githubusercontent.com/JNADatathon2022/.github/62f4801ee6afba27cf545bc9109f75007d484963/profile/assets/logo_project.png">
+</p>
+
+
+## Objective
+This repository contains a Next.js Dashboard to do intuitive inference on the model developed as part of the Accenture Challenge. The dashboard is deployed live and publicly accessible using Vercel.
+
+
+## Other parts of our project
+- [Main repository](https://github.com/JNADatathon2022/Datathon)
+- [Model Inference API](https://github.com/JNADatathon2022/ModelInferenceApp)
 
 ## Development (with Docker)
 
